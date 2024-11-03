@@ -1,0 +1,8 @@
+The Power Cord is connected
+The USB is connected
+The colored scan is on
+The start button is pressed
+Something put on table
+Colored scanning ...
+Scanned
+The Power Cord is disconnected
